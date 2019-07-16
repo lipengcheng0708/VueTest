@@ -1,0 +1,80 @@
+POST http://192.168.2.144:7201/CNPC_SlProj/webService/eInvWS
+Accept: */*
+Cache-Control: no-cache
+
+<?xml version="1.0" encoding="utf-8"?> <einterface>  <baseInfo>   <version>1.0</version>   <interfaceCode>interface_code</interfaceCode>   <taxpayerId>911403012018080900</taxpayerId>  </baseInfo>  <returnInfo>   <returnCode/>   <returnMessage/>  </returnInfo>  <exData>   <zipCode>0</zipCode>   <encryptCode>0</encryptCode>   <content> <requestFpkjxx><fptxx><fpqqlsh>1234567890123456789012</fpqqlsh><nsrsbh>911403012019070200</nsrsbh><wbxt>01</wbxt><fjh>1</fjh><zdh>1</zdh><nsrmc>ABC</nsrmc><kpxm>98车用汽油</kpxm><bmbbbh>29.0</bmbbbh><xsfnsrsbh>911403012019070200</xsfnsrsbh><xsfmc>ABC</xsfmc><xsfdz>1</xsfdz><xsfdh>1</xsfdh><xsfyhzh></xsfyhzh><gmfmc>测试购方名称</gmfmc><gmfnsrsbh>140301201808097</gmfnsrsbh><gmfsf>14</gmfsf><gmfdz>11</gmfdz><gmfgddh></gmfgddh><gmfsj>13800138000</gmfsj><gmfwx></gmfwx><gmfemail></gmfemail><gmfyhzh></gmfyhzh><gmfxz>2</gmfxz><kpr>11</kpr><skr>22</skr><fhr>33</fhr><qqrq>20190619161059</qqrq><kplx>1</kplx><fpzl>0</fpzl><fpdm>fpdmreplace</fpdm><fphm>fphmreplace</fphm><yfpdm></yfpdm><yfphm></yfphm><qdbz>0</qdbz><qdxmmc/><chyy/><rednum/><hsbz>0</hsbz><hjje>100</hjje><hjse>13</hjse><bz/><dqbm>1400</dqbm><ddh></ddh><kpwdbm>10103180000</kpwdbm><kpwdmc>内江分公司</kpwdmc><mply/><tsxq/><cpybz>C</cpybz><forceflag/></fptxx><xmxxs><xmxx><xmmc>98车用汽油</xmmc><dw>升</dw><ggxh>95</ggxh><xmsl>1</xmsl><xmdj>100</xmdj><xmje>100</xmje><sl>0.13</sl><se>13</se><fphxz>0</fphxz><spbm>1070101010100000000</spbm><zxbm>101</zxbm><yhzcbs>0</yhzcbs><lslbs></lslbs><zzstsgl></zzstsgl><kce></kce></xmxx></xmxxs></requestFpkjxx>    </content>  </exData> </einterface>
+
+<> 2019-07-02T034702.500.xml
+
+###
+
+POST http://192.168.2.144:7201/CNPC_SlProj/webService/eInvWS
+Accept: */*
+Cache-Control: no-cache
+
+<?xml version="1.0" encoding="utf-8"?> <einterface>  <baseInfo>   <version>1.0</version>   <interfaceCode>interface_code</interfaceCode>   <taxpayerId>911403012018080900</taxpayerId>  </baseInfo>  <returnInfo>   <returnCode/>   <returnMessage/>  </returnInfo>  <exData>   <zipCode>0</zipCode>   <encryptCode>0</encryptCode>   <content> <requestFpkjxx><fptxx><fpqqlsh>1234567890123456789012</fpqqlsh><nsrsbh>911403012019070200</nsrsbh><wbxt>01</wbxt><fjh>1</fjh><zdh>1</zdh><nsrmc>ABC</nsrmc><kpxm>98车用汽油</kpxm><bmbbbh>29.0</bmbbbh><xsfnsrsbh>911403012019070200</xsfnsrsbh><xsfmc>ABC</xsfmc><xsfdz>1</xsfdz><xsfdh>1</xsfdh><xsfyhzh></xsfyhzh><gmfmc>测试购方名称</gmfmc><gmfnsrsbh>140301201808097</gmfnsrsbh><gmfsf>14</gmfsf><gmfdz>11</gmfdz><gmfgddh></gmfgddh><gmfsj>13800138000</gmfsj><gmfwx></gmfwx><gmfemail></gmfemail><gmfyhzh></gmfyhzh><gmfxz>2</gmfxz><kpr>11</kpr><skr>22</skr><fhr>33</fhr><qqrq>20190619161059</qqrq><kplx>1</kplx><fpzl>0</fpzl><fpdm>fpdmreplace</fpdm><fphm>fphmreplace</fphm><yfpdm></yfpdm><yfphm></yfphm><qdbz>0</qdbz><qdxmmc/><chyy/><rednum/><hsbz>0</hsbz><hjje>100</hjje><hjse>13</hjse><bz/><dqbm>1400</dqbm><ddh></ddh><kpwdbm>10103180000</kpwdbm><kpwdmc>内江分公司</kpwdmc><mply/><tsxq/><cpybz>C</cpybz><forceflag/></fptxx><xmxxs><xmxx><xmmc>98车用汽油</xmmc><dw>升</dw><ggxh>95</ggxh><xmsl>1</xmsl><xmdj>100</xmdj><xmje>100</xmje><sl>0.13</sl><se>13</se><fphxz>0</fphxz><spbm>1070101010100000000</spbm><zxbm>101</zxbm><yhzcbs>0</yhzcbs><lslbs></lslbs><zzstsgl></zzstsgl><kce></kce></xmxx></xmxxs></requestFpkjxx>    </content>  </exData> </einterface>
+
+<> 2019-07-02T034109.500.xml
+
+###
+
+POST http://192.168.2.144:7201/CNPC_SlProj/webService/eInvWS
+Accept: */*
+Cache-Control: no-cache
+
+<?xml version="1.0" encoding="utf-8"?> <requestFpkjxx>     <fptxx>         <fpqqlsh>1234567890123456789012</fpqqlsh> 		<nsrsbh>911403012019070200</nsrsbh> 		<wbxt>01</wbxt> 		<fjh>1</fjh> 		<zdh>1</zdh> 		<nsrmc>ABC</nsrmc> 		<kpxm>98车用汽油</kpxm> 		<bmbbbh>29.0</bmbbbh> 		<xsfnsrsbh>911403012019070200</xsfnsrsbh> 		<xsfmc>ABC</xsfmc> 		<xsfdz>1</xsfdz> 		<xsfdh>1</xsfdh> 		<xsfyhzh></xsfyhzh> 		<gmfmc>测试购方名称</gmfmc> 		<gmfnsrsbh>140301201808097</gmfnsrsbh> 		<gmfsf>14</gmfsf> 		<gmfdz>11</gmfdz> 		<gmfgddh></gmfgddh> 		<gmfsj>13800138000</gmfsj> 		<gmfwx></gmfwx> 		<gmfemail></gmfemail> 		<gmfyhzh></gmfyhzh> 		<gmfxz>2</gmfxz> 		<kpr>11</kpr> 		<skr>22</skr> 		<fhr>33</fhr> 		<qqrq>20190619161059</qqrq> 		<kplx>1</kplx> 		<fpzl>0</fpzl> 		<fpdm>fpdmreplace</fpdm> 		<fphm>fphmreplace</fphm> 		<yfpdm></yfpdm> 		<yfphm></yfphm> 		<qdbz>0</qdbz> 		<qdxmmc/> 		<chyy/> 		<rednum/> 		<hsbz>0</hsbz> 		<hjje>100</hjje> 		<hjse>13</hjse> 		<bz/> 		<dqbm>1400</dqbm> 		<ddh></ddh> 		<kpwdbm>10103180000</kpwdbm> 		<kpwdmc>内江分公司</kpwdmc> 		<mply/> 		<tsxq/> 		<cpybz>C</cpybz> 		<forceflag/>     </fptxx>     <xmxxs> 		<xmxx> 			<xmmc>98车用汽油</xmmc> 			<dw>升</dw> 			<ggxh>95</ggxh> 			<xmsl>1</xmsl> 			<xmdj>100</xmdj> 			<xmje>100</xmje> 			<sl>0.13</sl> 			<se>13</se> 			<fphxz>0</fphxz> 			<spbm>1070101010100000000</spbm> 			<zxbm>101</zxbm> 			<yhzcbs>0</yhzcbs> 			<lslbs></lslbs> 			<zzstsgl></zzstsgl> 			<kce></kce> 		</xmxx>     </xmxxs> </requestFpkjxx>
+
+<> 2019-07-02T033141.500.xml
+
+###
+
+POST http://192.168.2.144:7201/CNPC_SlProj/webService/eInvWS
+Accept: */*
+Cache-Control: no-cache
+
+<?xml version="1.0" encoding="utf-8"?> <einterface>  <baseInfo>   <version>1.0</version>   <interfaceCode>interface_code</interfaceCode>   <taxpayerId>911403012018080900</taxpayerId>  </baseInfo>  <returnInfo>   <returnCode/>   <returnMessage/>  </returnInfo>  <exData>   <zipCode>0</zipCode>   <encryptCode>0</encryptCode>   <content>replace</content>  </exData> </einterface>
+
+<> 2019-07-02T032938.500.xml
+
+###
+
+POST http://192.168.2.144:7201/CNPC_SlProj/webService/eInvWS
+Accept: */*
+Cache-Control: no-cache
+
+<?xml version="1.0" encoding="utf-8"?> <einterface>  <baseInfo>   <version>1.0</version>   <interfaceCode>interface_code</interfaceCode>   <taxpayerId>911403012018080900</taxpayerId>  </baseInfo>  <returnInfo>   <returnCode/>   <returnMessage/>  </returnInfo>  <exData>   <zipCode>0</zipCode>   <encryptCode>0</encryptCode>   <content>replace</content>  </exData> </einterface>
+
+<> 2019-07-02T032841.500.xml
+
+###
+
+POST http://192.168.2.144:7201/CNPC_SlProj/webService/eInvWS
+Accept: */*
+Cache-Control: no-cache
+
+<?xml version="1.0" encoding="utf-8"?> <einterface>  <baseInfo>   <version>1.0</version>   <interfaceCode>interface_code</interfaceCode>   <taxpayerId>911403012018080900</taxpayerId>  </baseInfo>  <returnInfo>   <returnCode/>   <returnMessage/>  </returnInfo>  <exData>   <zipCode>0</zipCode>   <encryptCode>0</encryptCode>   <content>replace</content>  </exData> </einterface>
+
+<> 2019-07-02T032839.500.xml
+
+###
+
+POST http://192.168.2.144:7201/CNPC_SlProj/webService/eInvWS
+Accept: */*
+Cache-Control: no-cache
+
+<requestFpkjxx>     <fptxx>         <fpqqlsh>1234567890123456789012</fpqqlsh> 		<nsrsbh>911403012019070200</nsrsbh> 		<wbxt>01</wbxt> 		<fjh>1</fjh> 		<zdh>1</zdh> 		<nsrmc>ABC</nsrmc> 		<kpxm>98车用汽油</kpxm> 		<bmbbbh>29.0</bmbbbh> 		<xsfnsrsbh>911403012019070200</xsfnsrsbh> 		<xsfmc>ABC</xsfmc> 		<xsfdz>1</xsfdz> 		<xsfdh>1</xsfdh> 		<xsfyhzh></xsfyhzh> 		<gmfmc>测试购方名称</gmfmc> 		<gmfnsrsbh>140301201808097</gmfnsrsbh> 		<gmfsf>14</gmfsf> 		<gmfdz>11</gmfdz> 		<gmfgddh></gmfgddh> 		<gmfsj>13800138000</gmfsj> 		<gmfwx></gmfwx> 		<gmfemail></gmfemail> 		<gmfyhzh></gmfyhzh> 		<gmfxz>2</gmfxz> 		<kpr>11</kpr> 		<skr>22</skr> 		<fhr>33</fhr> 		<qqrq>20190619161059</qqrq> 		<kplx>1</kplx> 		<fpzl>0</fpzl> 		<fpdm>fpdmreplace</fpdm> 		<fphm>fphmreplace</fphm> 		<yfpdm></yfpdm> 		<yfphm></yfphm> 		<qdbz>0</qdbz> 		<qdxmmc/> 		<chyy/> 		<rednum/> 		<hsbz>0</hsbz> 		<hjje>100</hjje> 		<hjse>13</hjse> 		<bz/> 		<dqbm>1400</dqbm> 		<ddh></ddh> 		<kpwdbm>10103180000</kpwdbm> 		<kpwdmc>内江分公司</kpwdmc> 		<mply/> 		<tsxq/> 		<cpybz>C</cpybz> 		<forceflag/>     </fptxx>     <xmxxs> 		<xmxx> 			<xmmc>98车用汽油</xmmc> 			<dw>升</dw> 			<ggxh>95</ggxh> 			<xmsl>1</xmsl> 			<xmdj>100</xmdj> 			<xmje>100</xmje> 			<sl>0.13</sl> 			<se>13</se> 			<fphxz>0</fphxz> 			<spbm>1070101010100000000</spbm> 			<zxbm>101</zxbm> 			<yhzcbs>0</yhzcbs> 			<lslbs></lslbs> 			<zzstsgl></zzstsgl> 			<kce></kce> 		</xmxx>     </xmxxs> </requestFpkjxx>
+
+<> 2019-07-02T032817.500.xml
+
+###
+
+POST http://192.168.2.144:7201/CNPC_SlProj/webService/eInvWS
+Accept: */*
+Cache-Control: no-cache
+
+<requestFpkjxx>     <fptxx>         <fpqqlsh>1234567890123456789012</fpqqlsh> 		<nsrsbh>911403012019070200</nsrsbh> 		<wbxt>01</wbxt> 		<fjh>1</fjh> 		<zdh>1</zdh> 		<nsrmc>ABC</nsrmc> 		<kpxm>98车用汽油</kpxm> 		<bmbbbh>29.0</bmbbbh> 		<xsfnsrsbh>911403012019070200</xsfnsrsbh> 		<xsfmc>ABC</xsfmc> 		<xsfdz>1</xsfdz> 		<xsfdh>1</xsfdh> 		<xsfyhzh></xsfyhzh> 		<gmfmc>测试购方名称</gmfmc> 		<gmfnsrsbh>140301201808097</gmfnsrsbh> 		<gmfsf>14</gmfsf> 		<gmfdz>11</gmfdz> 		<gmfgddh></gmfgddh> 		<gmfsj>13800138000</gmfsj> 		<gmfwx></gmfwx> 		<gmfemail></gmfemail> 		<gmfyhzh></gmfyhzh> 		<gmfxz>2</gmfxz> 		<kpr>11</kpr> 		<skr>22</skr> 		<fhr>33</fhr> 		<qqrq>20190619161059</qqrq> 		<kplx>1</kplx> 		<fpzl>0</fpzl> 		<fpdm>fpdmreplace</fpdm> 		<fphm>fphmreplace</fphm> 		<yfpdm></yfpdm> 		<yfphm></yfphm> 		<qdbz>0</qdbz> 		<qdxmmc/> 		<chyy/> 		<rednum/> 		<hsbz>0</hsbz> 		<hjje>100</hjje> 		<hjse>13</hjse> 		<bz/> 		<dqbm>1400</dqbm> 		<ddh></ddh> 		<kpwdbm>10103180000</kpwdbm> 		<kpwdmc>内江分公司</kpwdmc> 		<mply/> 		<tsxq/> 		<cpybz>C</cpybz> 		<forceflag/>     </fptxx>     <xmxxs> 		<xmxx> 			<xmmc>98车用汽油</xmmc> 			<dw>升</dw> 			<ggxh>95</ggxh> 			<xmsl>1</xmsl> 			<xmdj>100</xmdj> 			<xmje>100</xmje> 			<sl>0.13</sl> 			<se>13</se> 			<fphxz>0</fphxz> 			<spbm>1070101010100000000</spbm> 			<zxbm>101</zxbm> 			<yhzcbs>0</yhzcbs> 			<lslbs></lslbs> 			<zzstsgl></zzstsgl> 			<kce></kce> 		</xmxx>     </xmxxs> </requestFpkjxx>
+
+<> 2019-07-02T032801.500.xml
+
+###
+

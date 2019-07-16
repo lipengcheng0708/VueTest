@@ -1,0 +1,992 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="efdb30da-1e96-418c-9cd0-dc58066ce4bf" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CheckStyle-IDEA-workspace">
+    <option name="configuration">
+      <map>
+        <entry key="last-active-plugin-version" value="5.22.0" />
+      </map>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="vue-loader.conf.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/vueDemo/build/vue-loader.conf.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="139">
+              <caret line="6" column="36" lean-forward="true" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="FindBugs-IDEA-Workspace">
+    <toolWindowEditorPreview>false</toolWindowEditorPreview>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>xmdj</find>
+      <find>dqbm</find>
+      <find>ddh</find>
+      <find>cpybz</find>
+      <find>forceflag</find>
+      <find>script</find>
+      <find>encryptMessage</find>
+      <find>encryptXml</find>
+      <find>utf</find>
+      <find>return</find>
+      <find>imp</find>
+      <find>name</find>
+      <find>handleSubmit</find>
+      <find>nginx</find>
+      <find>8082</find>
+      <find>baseURL</find>
+      <find>express</find>
+      <find>192.168.1.121</find>
+      <find>ebpack-dev-server --inline --progress -</find>
+      <find>admin</find>
+      <find>CNPC_SlProj/webService/eInvWS</find>
+      <find>CNPC_SlProj</find>
+      <find>finalMessage</find>
+      <find>8081</find>
+      <find>handleRequest</find>
+      <find>withCredentials</find>
+      <find>Access-Control-Allow-Credentials</find>
+      <find>192.168.2.144:7201</find>
+      <find>pathRewrite</find>
+      <find>\n</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>5</replace>
+      <replace>formTestTwo</replace>
+      <replace>list</replace>
+    </replaceStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="E:/GitProject/SpringbootWeather/demoWeather" value="PREVIEW" />
+        <entry key="E:/WebProject/spring-cloud-microservices-master/spring-cloud-microservices/micro-weather-quartz" value="PREVIEW" />
+        <entry key="E:/WebProject/spring-cloud-microservices-master/spring-cloud-microservices/msa-weather-collection-eureka-feign" value="PREVIEW" />
+        <entry key="E:/WebProject/spring-cloud-microservices-master/spring-cloud-microservices/msa-weather-report-eureka-feign-gateway-hystrix" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/vueDemo/build/webpack.dev.conf.js" />
+        <option value="$PROJECT_DIR$/vueDemo/src/routers.js" />
+        <option value="$PROJECT_DIR$/vueDemo/src/components/HelloWorld.vue" />
+        <option value="$PROJECT_DIR$/vueDemo/src/components/Index.vue" />
+        <option value="$PROJECT_DIR$/vueDemo/src/components/LayoutTest.vue" />
+        <option value="$PROJECT_DIR$/vueDemo/src/components/UserInfo.vue" />
+        <option value="$PROJECT_DIR$/vueDemo/src/components/AddUser.vue" />
+        <option value="$PROJECT_DIR$/vueDemo/src/components/UserMessage.vue" />
+        <option value="$PROJECT_DIR$/vueDemo/src/components/layoutComponents/ComponentOne.vue" />
+        <option value="$PROJECT_DIR$/vueDemo/src/components/managementTest/TeseOne.vue" />
+        <option value="$PROJECT_DIR$/vueDemo/src/components/test.vue" />
+        <option value="$PROJECT_DIR$/vueDemo/src/backup/AppBackup.vue" />
+        <option value="$PROJECT_DIR$/vueDemo/src/App.vue" />
+        <option value="$PROJECT_DIR$/vueDemo/src/backup/LayoutBackup.vue" />
+        <option value="$PROJECT_DIR$/vueDemo/.postcssrc.js" />
+        <option value="$PROJECT_DIR$/vueDemo/src/components/Test.vue" />
+        <option value="$PROJECT_DIR$/vueDemo/src/backup/Layout.BackupNew.vue" />
+        <option value="$PROJECT_DIR$/vueDemo/src/assets/common.pcss" />
+        <option value="$PROJECT_DIR$/vueDemo/build/vue-loader.conf.js" />
+        <option value="$PROJECT_DIR$/vueDemo/src/components/home/Index.vue" />
+        <option value="$PROJECT_DIR$/vueDemo/src/components/home/Home.vue" />
+        <option value="$PROJECT_DIR$/vueDemo/src/router/index.js" />
+        <option value="$PROJECT_DIR$/vueDemo/src/components/Master.vue" />
+        <option value="$PROJECT_DIR$/vueDemo/src/components/managementComponent/ComponentOne.vue" />
+        <option value="$PROJECT_DIR$/vueDemo/src/components/managementComponent/ComponentThree.vue" />
+        <option value="$PROJECT_DIR$/vueDemo/src/components/managementComponent/ComponentTwo.vue" />
+        <option value="$PROJECT_DIR$/vueDemo/src/components/managementTest/TestThree.vue" />
+        <option value="$PROJECT_DIR$/vueDemo/src/components/managementTest/TestOne.vue" />
+        <option value="$PROJECT_DIR$/vueDemo/src/components/Layout.vue" />
+        <option value="$PROJECT_DIR$/vueDemo/src/components/Login.vue" />
+        <option value="$PROJECT_DIR$/vueDemo/src/main.js" />
+        <option value="$PROJECT_DIR$/vueDemo/package.json" />
+        <option value="$PROJECT_DIR$/vueDemo/config/index.js" />
+        <option value="$PROJECT_DIR$/vueDemo/src/components/managementTest/TestTwo.vue" />
+        <option value="$PROJECT_DIR$/vueDemo/config/prod.env.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/Maven/apache-maven-3.5.2-bin/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="E:\Maven\apache-maven-3.5.2-bin\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/vueDemo/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/vueDemo/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-177" />
+    <option name="y" value="9" />
+    <option name="width" value="1382" />
+    <option name="height" value="763" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="vueDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vueDemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vueDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vueDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="vueDemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vueDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vueDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="vueDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vueDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vueDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="vueDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vueDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vueDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="vueDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="E:/GitProject/hxProject" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\TestProject\vueDemo\vueDemo\src\backup" />
+      <recent name="E:\TestProject\vueDemo\vueDemo\src\view" />
+      <recent name="E:\TestProject\vueDemo\vueDemo\src\components" />
+      <recent name="E:\TestProject\vueDemo\vueDemo\src\assets" />
+      <recent name="E:\TestProject\vueDemo\vueDemo\src\components\managementTest" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\TestProject\vueDemo\vueDemo\src\components\managementUser" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://192.168.2.144:7201" />
+          <option name="urlPath" value="/CNPC_SlProj/webService/eInvWS" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt; &lt;einterface&gt;  &lt;baseInfo&gt;   &lt;version&gt;1.0&lt;/version&gt;   &lt;interfaceCode&gt;interface_code&lt;/interfaceCode&gt;   &lt;taxpayerId&gt;911403012018080900&lt;/taxpayerId&gt;  &lt;/baseInfo&gt;  &lt;returnInfo&gt;   &lt;returnCode/&gt;   &lt;returnMessage/&gt;  &lt;/returnInfo&gt;  &lt;exData&gt;   &lt;zipCode&gt;0&lt;/zipCode&gt;   &lt;encryptCode&gt;0&lt;/encryptCode&gt;   &lt;content&gt; &lt;requestFpkjxx&gt;&lt;fptxx&gt;&lt;fpqqlsh&gt;1234567890123456789012&lt;/fpqqlsh&gt;&lt;nsrsbh&gt;911403012019070200&lt;/nsrsbh&gt;&lt;wbxt&gt;01&lt;/wbxt&gt;&lt;fjh&gt;1&lt;/fjh&gt;&lt;zdh&gt;1&lt;/zdh&gt;&lt;nsrmc&gt;ABC&lt;/nsrmc&gt;&lt;kpxm&gt;98车用汽油&lt;/kpxm&gt;&lt;bmbbbh&gt;29.0&lt;/bmbbbh&gt;&lt;xsfnsrsbh&gt;911403012019070200&lt;/xsfnsrsbh&gt;&lt;xsfmc&gt;ABC&lt;/xsfmc&gt;&lt;xsfdz&gt;1&lt;/xsfdz&gt;&lt;xsfdh&gt;1&lt;/xsfdh&gt;&lt;xsfyhzh&gt;&lt;/xsfyhzh&gt;&lt;gmfmc&gt;测试购方名称&lt;/gmfmc&gt;&lt;gmfnsrsbh&gt;140301201808097&lt;/gmfnsrsbh&gt;&lt;gmfsf&gt;14&lt;/gmfsf&gt;&lt;gmfdz&gt;11&lt;/gmfdz&gt;&lt;gmfgddh&gt;&lt;/gmfgddh&gt;&lt;gmfsj&gt;13800138000&lt;/gmfsj&gt;&lt;gmfwx&gt;&lt;/gmfwx&gt;&lt;gmfemail&gt;&lt;/gmfemail&gt;&lt;gmfyhzh&gt;&lt;/gmfyhzh&gt;&lt;gmfxz&gt;2&lt;/gmfxz&gt;&lt;kpr&gt;11&lt;/kpr&gt;&lt;skr&gt;22&lt;/skr&gt;&lt;fhr&gt;33&lt;/fhr&gt;&lt;qqrq&gt;20190619161059&lt;/qqrq&gt;&lt;kplx&gt;1&lt;/kplx&gt;&lt;fpzl&gt;0&lt;/fpzl&gt;&lt;fpdm&gt;fpdmreplace&lt;/fpdm&gt;&lt;fphm&gt;fphmreplace&lt;/fphm&gt;&lt;yfpdm&gt;&lt;/yfpdm&gt;&lt;yfphm&gt;&lt;/yfphm&gt;&lt;qdbz&gt;0&lt;/qdbz&gt;&lt;qdxmmc/&gt;&lt;chyy/&gt;&lt;rednum/&gt;&lt;hsbz&gt;0&lt;/hsbz&gt;&lt;hjje&gt;100&lt;/hjje&gt;&lt;hjse&gt;13&lt;/hjse&gt;&lt;bz/&gt;&lt;dqbm&gt;1400&lt;/dqbm&gt;&lt;ddh&gt;&lt;/ddh&gt;&lt;kpwdbm&gt;10103180000&lt;/kpwdbm&gt;&lt;kpwdmc&gt;内江分公司&lt;/kpwdmc&gt;&lt;mply/&gt;&lt;tsxq/&gt;&lt;cpybz&gt;C&lt;/cpybz&gt;&lt;forceflag/&gt;&lt;/fptxx&gt;&lt;xmxxs&gt;&lt;xmxx&gt;&lt;xmmc&gt;98车用汽油&lt;/xmmc&gt;&lt;dw&gt;升&lt;/dw&gt;&lt;ggxh&gt;95&lt;/ggxh&gt;&lt;xmsl&gt;1&lt;/xmsl&gt;&lt;xmdj&gt;100&lt;/xmdj&gt;&lt;xmje&gt;100&lt;/xmje&gt;&lt;sl&gt;0.13&lt;/sl&gt;&lt;se&gt;13&lt;/se&gt;&lt;fphxz&gt;0&lt;/fphxz&gt;&lt;spbm&gt;1070101010100000000&lt;/spbm&gt;&lt;zxbm&gt;101&lt;/zxbm&gt;&lt;yhzcbs&gt;0&lt;/yhzcbs&gt;&lt;lslbs&gt;&lt;/lslbs&gt;&lt;zzstsgl&gt;&lt;/zzstsgl&gt;&lt;kce&gt;&lt;/kce&gt;&lt;/xmxx&gt;&lt;/xmxxs&gt;&lt;/requestFpkjxx&gt;    &lt;/content&gt;  &lt;/exData&gt; &lt;/einterface&gt;" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://192.168.2.144:7201" />
+          <option name="urlPath" value="/CNPC_SlProj/webService/eInvWS" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt; &lt;requestFpkjxx&gt;     &lt;fptxx&gt;         &lt;fpqqlsh&gt;1234567890123456789012&lt;/fpqqlsh&gt; &#9;&#9;&lt;nsrsbh&gt;911403012019070200&lt;/nsrsbh&gt; &#9;&#9;&lt;wbxt&gt;01&lt;/wbxt&gt; &#9;&#9;&lt;fjh&gt;1&lt;/fjh&gt; &#9;&#9;&lt;zdh&gt;1&lt;/zdh&gt; &#9;&#9;&lt;nsrmc&gt;ABC&lt;/nsrmc&gt; &#9;&#9;&lt;kpxm&gt;98车用汽油&lt;/kpxm&gt; &#9;&#9;&lt;bmbbbh&gt;29.0&lt;/bmbbbh&gt; &#9;&#9;&lt;xsfnsrsbh&gt;911403012019070200&lt;/xsfnsrsbh&gt; &#9;&#9;&lt;xsfmc&gt;ABC&lt;/xsfmc&gt; &#9;&#9;&lt;xsfdz&gt;1&lt;/xsfdz&gt; &#9;&#9;&lt;xsfdh&gt;1&lt;/xsfdh&gt; &#9;&#9;&lt;xsfyhzh&gt;&lt;/xsfyhzh&gt; &#9;&#9;&lt;gmfmc&gt;测试购方名称&lt;/gmfmc&gt; &#9;&#9;&lt;gmfnsrsbh&gt;140301201808097&lt;/gmfnsrsbh&gt; &#9;&#9;&lt;gmfsf&gt;14&lt;/gmfsf&gt; &#9;&#9;&lt;gmfdz&gt;11&lt;/gmfdz&gt; &#9;&#9;&lt;gmfgddh&gt;&lt;/gmfgddh&gt; &#9;&#9;&lt;gmfsj&gt;13800138000&lt;/gmfsj&gt; &#9;&#9;&lt;gmfwx&gt;&lt;/gmfwx&gt; &#9;&#9;&lt;gmfemail&gt;&lt;/gmfemail&gt; &#9;&#9;&lt;gmfyhzh&gt;&lt;/gmfyhzh&gt; &#9;&#9;&lt;gmfxz&gt;2&lt;/gmfxz&gt; &#9;&#9;&lt;kpr&gt;11&lt;/kpr&gt; &#9;&#9;&lt;skr&gt;22&lt;/skr&gt; &#9;&#9;&lt;fhr&gt;33&lt;/fhr&gt; &#9;&#9;&lt;qqrq&gt;20190619161059&lt;/qqrq&gt; &#9;&#9;&lt;kplx&gt;1&lt;/kplx&gt; &#9;&#9;&lt;fpzl&gt;0&lt;/fpzl&gt; &#9;&#9;&lt;fpdm&gt;fpdmreplace&lt;/fpdm&gt; &#9;&#9;&lt;fphm&gt;fphmreplace&lt;/fphm&gt; &#9;&#9;&lt;yfpdm&gt;&lt;/yfpdm&gt; &#9;&#9;&lt;yfphm&gt;&lt;/yfphm&gt; &#9;&#9;&lt;qdbz&gt;0&lt;/qdbz&gt; &#9;&#9;&lt;qdxmmc/&gt; &#9;&#9;&lt;chyy/&gt; &#9;&#9;&lt;rednum/&gt; &#9;&#9;&lt;hsbz&gt;0&lt;/hsbz&gt; &#9;&#9;&lt;hjje&gt;100&lt;/hjje&gt; &#9;&#9;&lt;hjse&gt;13&lt;/hjse&gt; &#9;&#9;&lt;bz/&gt; &#9;&#9;&lt;dqbm&gt;1400&lt;/dqbm&gt; &#9;&#9;&lt;ddh&gt;&lt;/ddh&gt; &#9;&#9;&lt;kpwdbm&gt;10103180000&lt;/kpwdbm&gt; &#9;&#9;&lt;kpwdmc&gt;内江分公司&lt;/kpwdmc&gt; &#9;&#9;&lt;mply/&gt; &#9;&#9;&lt;tsxq/&gt; &#9;&#9;&lt;cpybz&gt;C&lt;/cpybz&gt; &#9;&#9;&lt;forceflag/&gt;     &lt;/fptxx&gt;     &lt;xmxxs&gt; &#9;&#9;&lt;xmxx&gt; &#9;&#9;&#9;&lt;xmmc&gt;98车用汽油&lt;/xmmc&gt; &#9;&#9;&#9;&lt;dw&gt;升&lt;/dw&gt; &#9;&#9;&#9;&lt;ggxh&gt;95&lt;/ggxh&gt; &#9;&#9;&#9;&lt;xmsl&gt;1&lt;/xmsl&gt; &#9;&#9;&#9;&lt;xmdj&gt;100&lt;/xmdj&gt; &#9;&#9;&#9;&lt;xmje&gt;100&lt;/xmje&gt; &#9;&#9;&#9;&lt;sl&gt;0.13&lt;/sl&gt; &#9;&#9;&#9;&lt;se&gt;13&lt;/se&gt; &#9;&#9;&#9;&lt;fphxz&gt;0&lt;/fphxz&gt; &#9;&#9;&#9;&lt;spbm&gt;1070101010100000000&lt;/spbm&gt; &#9;&#9;&#9;&lt;zxbm&gt;101&lt;/zxbm&gt; &#9;&#9;&#9;&lt;yhzcbs&gt;0&lt;/yhzcbs&gt; &#9;&#9;&#9;&lt;lslbs&gt;&lt;/lslbs&gt; &#9;&#9;&#9;&lt;zzstsgl&gt;&lt;/zzstsgl&gt; &#9;&#9;&#9;&lt;kce&gt;&lt;/kce&gt; &#9;&#9;&lt;/xmxx&gt;     &lt;/xmxxs&gt; &lt;/requestFpkjxx&gt; " />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://192.168.2.144:7201" />
+          <option name="urlPath" value="/CNPC_SlProj/webService/eInvWS" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt; &lt;einterface&gt;  &lt;baseInfo&gt;   &lt;version&gt;1.0&lt;/version&gt;   &lt;interfaceCode&gt;interface_code&lt;/interfaceCode&gt;   &lt;taxpayerId&gt;911403012018080900&lt;/taxpayerId&gt;  &lt;/baseInfo&gt;  &lt;returnInfo&gt;   &lt;returnCode/&gt;   &lt;returnMessage/&gt;  &lt;/returnInfo&gt;  &lt;exData&gt;   &lt;zipCode&gt;0&lt;/zipCode&gt;   &lt;encryptCode&gt;0&lt;/encryptCode&gt;   &lt;content&gt;replace&lt;/content&gt;  &lt;/exData&gt; &lt;/einterface&gt;" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://192.168.2.144:7201" />
+          <option name="urlPath" value="/CNPC_SlProj/webService/eInvWS" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="&lt;requestFpkjxx&gt;     &lt;fptxx&gt;         &lt;fpqqlsh&gt;1234567890123456789012&lt;/fpqqlsh&gt; &#9;&#9;&lt;nsrsbh&gt;911403012019070200&lt;/nsrsbh&gt; &#9;&#9;&lt;wbxt&gt;01&lt;/wbxt&gt; &#9;&#9;&lt;fjh&gt;1&lt;/fjh&gt; &#9;&#9;&lt;zdh&gt;1&lt;/zdh&gt; &#9;&#9;&lt;nsrmc&gt;ABC&lt;/nsrmc&gt; &#9;&#9;&lt;kpxm&gt;98车用汽油&lt;/kpxm&gt; &#9;&#9;&lt;bmbbbh&gt;29.0&lt;/bmbbbh&gt; &#9;&#9;&lt;xsfnsrsbh&gt;911403012019070200&lt;/xsfnsrsbh&gt; &#9;&#9;&lt;xsfmc&gt;ABC&lt;/xsfmc&gt; &#9;&#9;&lt;xsfdz&gt;1&lt;/xsfdz&gt; &#9;&#9;&lt;xsfdh&gt;1&lt;/xsfdh&gt; &#9;&#9;&lt;xsfyhzh&gt;&lt;/xsfyhzh&gt; &#9;&#9;&lt;gmfmc&gt;测试购方名称&lt;/gmfmc&gt; &#9;&#9;&lt;gmfnsrsbh&gt;140301201808097&lt;/gmfnsrsbh&gt; &#9;&#9;&lt;gmfsf&gt;14&lt;/gmfsf&gt; &#9;&#9;&lt;gmfdz&gt;11&lt;/gmfdz&gt; &#9;&#9;&lt;gmfgddh&gt;&lt;/gmfgddh&gt; &#9;&#9;&lt;gmfsj&gt;13800138000&lt;/gmfsj&gt; &#9;&#9;&lt;gmfwx&gt;&lt;/gmfwx&gt; &#9;&#9;&lt;gmfemail&gt;&lt;/gmfemail&gt; &#9;&#9;&lt;gmfyhzh&gt;&lt;/gmfyhzh&gt; &#9;&#9;&lt;gmfxz&gt;2&lt;/gmfxz&gt; &#9;&#9;&lt;kpr&gt;11&lt;/kpr&gt; &#9;&#9;&lt;skr&gt;22&lt;/skr&gt; &#9;&#9;&lt;fhr&gt;33&lt;/fhr&gt; &#9;&#9;&lt;qqrq&gt;20190619161059&lt;/qqrq&gt; &#9;&#9;&lt;kplx&gt;1&lt;/kplx&gt; &#9;&#9;&lt;fpzl&gt;0&lt;/fpzl&gt; &#9;&#9;&lt;fpdm&gt;fpdmreplace&lt;/fpdm&gt; &#9;&#9;&lt;fphm&gt;fphmreplace&lt;/fphm&gt; &#9;&#9;&lt;yfpdm&gt;&lt;/yfpdm&gt; &#9;&#9;&lt;yfphm&gt;&lt;/yfphm&gt; &#9;&#9;&lt;qdbz&gt;0&lt;/qdbz&gt; &#9;&#9;&lt;qdxmmc/&gt; &#9;&#9;&lt;chyy/&gt; &#9;&#9;&lt;rednum/&gt; &#9;&#9;&lt;hsbz&gt;0&lt;/hsbz&gt; &#9;&#9;&lt;hjje&gt;100&lt;/hjje&gt; &#9;&#9;&lt;hjse&gt;13&lt;/hjse&gt; &#9;&#9;&lt;bz/&gt; &#9;&#9;&lt;dqbm&gt;1400&lt;/dqbm&gt; &#9;&#9;&lt;ddh&gt;&lt;/ddh&gt; &#9;&#9;&lt;kpwdbm&gt;10103180000&lt;/kpwdbm&gt; &#9;&#9;&lt;kpwdmc&gt;内江分公司&lt;/kpwdmc&gt; &#9;&#9;&lt;mply/&gt; &#9;&#9;&lt;tsxq/&gt; &#9;&#9;&lt;cpybz&gt;C&lt;/cpybz&gt; &#9;&#9;&lt;forceflag/&gt;     &lt;/fptxx&gt;     &lt;xmxxs&gt; &#9;&#9;&lt;xmxx&gt; &#9;&#9;&#9;&lt;xmmc&gt;98车用汽油&lt;/xmmc&gt; &#9;&#9;&#9;&lt;dw&gt;升&lt;/dw&gt; &#9;&#9;&#9;&lt;ggxh&gt;95&lt;/ggxh&gt; &#9;&#9;&#9;&lt;xmsl&gt;1&lt;/xmsl&gt; &#9;&#9;&#9;&lt;xmdj&gt;100&lt;/xmdj&gt; &#9;&#9;&#9;&lt;xmje&gt;100&lt;/xmje&gt; &#9;&#9;&#9;&lt;sl&gt;0.13&lt;/sl&gt; &#9;&#9;&#9;&lt;se&gt;13&lt;/se&gt; &#9;&#9;&#9;&lt;fphxz&gt;0&lt;/fphxz&gt; &#9;&#9;&#9;&lt;spbm&gt;1070101010100000000&lt;/spbm&gt; &#9;&#9;&#9;&lt;zxbm&gt;101&lt;/zxbm&gt; &#9;&#9;&#9;&lt;yhzcbs&gt;0&lt;/yhzcbs&gt; &#9;&#9;&#9;&lt;lslbs&gt;&lt;/lslbs&gt; &#9;&#9;&#9;&lt;zzstsgl&gt;&lt;/zzstsgl&gt; &#9;&#9;&#9;&lt;kce&gt;&lt;/kce&gt; &#9;&#9;&lt;/xmxx&gt;     &lt;/xmxxs&gt; &lt;/requestFpkjxx&gt; " />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="efdb30da-1e96-418c-9cd0-dc58066ce4bf" name="Default" comment="" />
+      <created>1558577674696</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558577674696</updated>
+      <workItem from="1558577678410" duration="19827000" />
+      <workItem from="1558941312308" duration="6005000" />
+      <workItem from="1559003691676" duration="2498000" />
+      <workItem from="1559090314916" duration="20018000" />
+      <workItem from="1559176341882" duration="28557000" />
+      <workItem from="1559286328603" duration="10756000" />
+      <workItem from="1559608750702" duration="5045000" />
+      <workItem from="1560127625486" duration="9505000" />
+      <workItem from="1560732404598" duration="23543000" />
+      <workItem from="1560819163977" duration="2195000" />
+      <workItem from="1560927420238" duration="58320000" />
+      <workItem from="1561336622772" duration="86675000" />
+      <workItem from="1561622969145" duration="1610000" />
+      <workItem from="1561624831970" duration="18000" />
+      <workItem from="1561624994439" duration="440000" />
+      <workItem from="1561625443024" duration="469000" />
+      <workItem from="1561626125834" duration="2352000" />
+      <workItem from="1561682704130" duration="721000" />
+      <workItem from="1561943787680" duration="2227000" />
+      <workItem from="1561946850081" duration="1205000" />
+      <workItem from="1562036745850" duration="472000" />
+      <workItem from="1562037228468" duration="3871000" />
+      <workItem from="1562044139954" duration="2465000" />
+      <workItem from="1562046785643" duration="1496000" />
+      <workItem from="1562048294305" duration="5945000" />
+      <workItem from="1562114665445" duration="73096000" />
+      <workItem from="1562556327332" duration="1220000" />
+      <workItem from="1562563909943" duration="24067000" />
+      <workItem from="1562892692086" duration="7418000" />
+      <workItem from="1563153736888" duration="13723000" />
+      <workItem from="1563237568460" duration="17658000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="433417000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="1" weight="0.32876712" />
+      <window_info anchor="bottom" id="Event Log" order="15" side_tool="true" weight="0.32427537" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="18" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="bottom" id="Statistic" order="2" weight="0.32789856" />
+      <window_info anchor="bottom" id="Tail" order="3" />
+      <window_info anchor="right" id="Database" order="7" weight="0.32980332" />
+      <window_info id="Structure" order="1" sideWeight="0.5045372" side_tool="true" weight="0.27480915" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Debug" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="13" weight="0.3271028" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="bottom" id="Run" order="9" weight="0.95189005" />
+      <window_info anchor="bottom" id="Version Control" order="20" show_stripe_button="false" />
+      <window_info anchor="bottom" id="MyBatis Sql Log" order="5" />
+      <window_info anchor="bottom" id="CheckStyle" order="4" weight="0.32971016" />
+      <window_info anchor="bottom" id="Terminal" order="22" weight="0.5289855" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4954628" visible="true" weight="0.340458" />
+      <window_info anchor="bottom" id="Find" order="8" weight="0.32849365" />
+      <window_info anchor="bottom" id="Hybris Console [Experimental]" order="6" weight="0.78039926" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info id="Favorites" order="5" sideWeight="0.50256413" side_tool="true" weight="0.25037822" />
+      <window_info anchor="bottom" id="REST Client" order="19" weight="0.8227612" />
+      <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
+      <window_info anchor="right" x="0" y="0" width="295" height="544" id="Documentation" order="0" side_tool="true" weight="0.32977098" />
+      <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Problems" order="21" weight="0.58934706" />
+      <window_info anchor="bottom" id="TypeScript" order="0" />
+      <window_info anchor="bottom" id="Messages" order="16" weight="0.3298969" />
+      <window_info anchor="bottom" id="Spring" order="14" weight="0.41065294" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info id="Web" order="7" sideWeight="0.50256413" side_tool="true" weight="0.25037822" />
+      <window_info anchor="bottom" id="Message" order="7" />
+      <window_info anchor="bottom" id="Java Enterprise" order="17" weight="0.3298969" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="1" weight="0.32876712" />
+      <window_info anchor="bottom" id="MyBatis Sql Log" order="5" />
+      <window_info anchor="bottom" id="REST Client" order="19" weight="0.8227612" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="bottom" id="Spring" order="14" weight="0.41065294" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="bottom" id="TypeScript" order="0" />
+      <window_info anchor="bottom" id="Run" order="9" weight="0.95189005" />
+      <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Event Log" order="15" side_tool="true" weight="0.32427537" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Hybris Console [Experimental]" order="6" weight="0.78039926" />
+      <window_info id="Favorites" order="5" sideWeight="0.50256413" side_tool="true" weight="0.25037822" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="22" visible="true" weight="0.5289855" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="CheckStyle" order="4" weight="0.32971016" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="bottom" id="Statistic" order="2" weight="0.32789856" />
+      <window_info anchor="right" x="0" y="0" width="295" height="544" id="Documentation" order="0" side_tool="true" weight="0.32977098" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Problems" order="21" weight="0.58934706" />
+      <window_info id="Web" order="7" sideWeight="0.50256413" side_tool="true" weight="0.25037822" />
+      <window_info anchor="bottom" id="Java Enterprise" order="17" weight="0.3298969" />
+      <window_info anchor="bottom" id="Database Changes" order="18" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="20" show_stripe_button="false" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="bottom" id="Find" order="8" weight="0.32849365" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4954628" visible="true" weight="0.340458" />
+      <window_info anchor="bottom" id="Messages" order="16" weight="0.3298969" />
+      <window_info anchor="right" id="Database" order="7" weight="0.32980332" />
+      <window_info anchor="bottom" id="Message" order="7" />
+      <window_info anchor="bottom" id="TODO" order="13" weight="0.3271028" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info id="Structure" order="1" sideWeight="0.5045372" side_tool="true" weight="0.27480915" />
+      <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
+      <window_info anchor="bottom" id="Tail" order="3" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
+      <window_info anchor="bottom" id="Debug" order="10" weight="0.4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="63" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/common.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="472">
+          <caret line="162" column="18" selection-start-line="162" selection-start-column="18" selection-end-line="162" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueDemo/.postcssrc.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueDemo/build/webpack.base.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="33" column="7" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueDemo/node_modules/precss/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueDemo/node_modules/iview/dist/styles/iview.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret column="254244" selection-start-column="254244" selection-end-column="254244" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueDemo.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueDemo/src/backup/AppBackup.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueDemo/src/backup/Layout.BackupNew.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueDemo/node_modules/iview/src/components/layout/sider.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="126" column="16" selection-start-line="126" selection-start-column="16" selection-end-line="126" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueDemo/node_modules/vue/types/vue.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueDemo/node_modules/iview/dist/iview.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="7529" column="4" selection-start-line="7529" selection-start-column="4" selection-end-line="7529" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueDemo/node_modules/iview/src/components/tag/tag.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="39" column="29" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueDemo/src/components/managementUser/AddUser.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="11" column="16" lean-forward="true" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueDemo/src/components/home/Home.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueDemo/src/assets/common.pcss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-907">
+          <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueDemo/node_modules/postcss-cssnext/lib/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueDemo/src/components/Test.vue" />
+    <entry file="file://$PROJECT_DIR$/vueDemo/node_modules/axios/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="128" column="14" selection-start-line="128" selection-start-column="14" selection-end-line="128" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueDemo/src/components/managementComponent/ComponentTwo.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueDemo/src/components/managementComponent/ComponentOne.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueDemo/src/components/managementComponent/ComponentThree.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueDemo/src/components/managementTest/TestThree.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueDemo/node_modules/iview/src/components/grid/col.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueDemo/src/components/managementTest/TestOne.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="288" column="13" selection-start-line="288" selection-start-column="13" selection-end-line="288" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueDemo/node_modules/iview/types/message.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="79" column="8" selection-start-line="79" selection-start-column="8" selection-end-line="79" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueDemo/node_modules/iview/src/components/input/input.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="471">
+          <caret line="180" column="16" selection-start-line="180" selection-start-column="16" selection-end-line="180" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueDemo/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-257">
+          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueDemo/src/router/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="23" column="38" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueDemo/node_modules/vue/types/options.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="77" column="2" selection-start-line="77" selection-start-column="2" selection-end-line="77" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueDemo/node_modules/iview/src/components/button/button.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="47" column="29" lean-forward="true" selection-start-line="47" selection-start-column="29" selection-end-line="47" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueDemo/src/components/Layout.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="821" selection-start-line="821" selection-end-line="821" />
+          <folding>
+            <element signature="e#168#1429#0" />
+            <element signature="n#MenuItem#0;n#Submenu#0;n#template#0;n#Menu#0;n#Sider#0;n#Layout#0;n#div#0;n#section#0;n#template#0;n#!!top" />
+            <element signature="n#Button#0;n#Dropdown#0;n#template#0;n#div#0;n#div#1;n#Sider#0;n#Layout#0;n#div#0;n#section#0;n#template#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueDemo/src/components/Master.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="101" column="81" selection-start-line="101" selection-start-column="77" selection-end-line="101" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueDemo/node_modules/iview/src/components/form/form-item.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="51" column="12" selection-start-line="51" selection-start-column="12" selection-end-line="51" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/core-scripting.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="44" column="22" selection-start-line="44" selection-start-column="22" selection-end-line="44" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueDemo/node_modules/js-base64/base64.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="64" column="28" lean-forward="true" selection-start-line="64" selection-start-column="28" selection-end-line="64" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueDemo/node_modules/vue/src/server/webpack-plugin/util.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueDemo/node_modules/vkbeautify/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueDemo/src/components/Login.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="82" column="6" selection-start-line="82" selection-start-column="6" selection-end-line="82" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueDemo/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="420" column="41" selection-start-line="420" selection-start-column="41" selection-end-line="420" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueDemo/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="85" selection-start-line="7" selection-start-column="85" selection-end-line="7" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueDemo/build/webpack.dev.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="33" column="30" lean-forward="true" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueDemo/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#230#255#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="15745" column="14" selection-start-line="15745" selection-start-column="14" selection-end-line="15745" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueDemo/config/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="23" column="45" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
+          <folding>
+            <marker date="1563257366588" expanded="true" signature="279:470" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueDemo/src/components/managementTest/TestTwo.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="701" selection-start-line="701" selection-end-line="702" />
+          <folding>
+            <element signature="n#style#0;n#Input#0;n#FormItem#0;n#Row#15;n#Form#0;n#div#0;n#MasterPage#0;n#section#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#Input#0;n#FormItem#0;n#Row#16;n#Form#0;n#div#0;n#MasterPage#0;n#section#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#Input#0;n#FormItem#0;n#Row#17;n#Form#0;n#div#0;n#MasterPage#0;n#section#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#Input#0;n#FormItem#0;n#Row#18;n#Form#0;n#div#0;n#MasterPage#0;n#section#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#Input#0;n#FormItem#0;n#Row#19;n#Form#0;n#div#0;n#MasterPage#0;n#section#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="e#16722#16766#0" expanded="true" />
+            <element signature="e#22932#23075#0" />
+            <element signature="e#23097#24209#0" />
+            <element signature="e#24226#24458#0" />
+            <element signature="e#24483#24679#0" />
+            <element signature="e#24700#24912#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueDemo/config/prod.env.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="4" lean-forward="true" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueDemo/config/dev.env.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueDemo/build/utils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1638">
+          <caret line="63" column="38" lean-forward="true" selection-start-line="63" selection-start-column="38" selection-end-line="63" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueDemo/build/check-versions.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueDemo/build/vue-loader.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="6" column="36" lean-forward="true" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>vueDemo</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
