@@ -20,11 +20,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="vue-loader.conf.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="vue-loader.conf.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vueDemo/build/vue-loader.conf.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="139">
-              <caret line="6" column="36" lean-forward="true" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+            <state relative-caret-position="546">
+              <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vueDemo/dist/index.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/vueDemo/config/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="572">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
@@ -112,7 +126,6 @@
         <option value="$PROJECT_DIR$/vueDemo/src/components/Test.vue" />
         <option value="$PROJECT_DIR$/vueDemo/src/backup/Layout.BackupNew.vue" />
         <option value="$PROJECT_DIR$/vueDemo/src/assets/common.pcss" />
-        <option value="$PROJECT_DIR$/vueDemo/build/vue-loader.conf.js" />
         <option value="$PROJECT_DIR$/vueDemo/src/components/home/Index.vue" />
         <option value="$PROJECT_DIR$/vueDemo/src/components/home/Home.vue" />
         <option value="$PROJECT_DIR$/vueDemo/src/router/index.js" />
@@ -129,6 +142,7 @@
         <option value="$PROJECT_DIR$/vueDemo/config/index.js" />
         <option value="$PROJECT_DIR$/vueDemo/src/components/managementTest/TestTwo.vue" />
         <option value="$PROJECT_DIR$/vueDemo/config/prod.env.js" />
+        <option value="$PROJECT_DIR$/vueDemo/build/vue-loader.conf.js" />
       </list>
     </option>
   </component>
@@ -161,10 +175,10 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-177" />
-    <option name="y" value="9" />
-    <option name="width" value="1382" />
-    <option name="height" value="763" />
+    <option name="x" value="77" />
+    <option name="y" value="74" />
+    <option name="width" value="1386" />
+    <option name="height" value="735" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -172,8 +186,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -203,18 +215,27 @@
               <item name="vueDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="vueDemo" type="462c0819:PsiDirectoryNode" />
               <item name="vueDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vueDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vueDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="vueDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="E:/GitProject/hxProject" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -420,11 +441,13 @@
       <workItem from="1562892692086" duration="7418000" />
       <workItem from="1563153736888" duration="13723000" />
       <workItem from="1563237568460" duration="17658000" />
+      <workItem from="1563873150187" duration="654000" />
+      <workItem from="1563874011059" duration="1100000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="433417000" />
+    <option name="totallyTimeSpent" value="435171000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -437,7 +460,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="1" weight="0.32876712" />
@@ -457,13 +479,12 @@
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info id="Image Layers" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="bottom" id="Run" order="9" weight="0.95189005" />
       <window_info anchor="bottom" id="Version Control" order="20" show_stripe_button="false" />
-      <window_info anchor="bottom" id="MyBatis Sql Log" order="5" />
+      <window_info anchor="bottom" id="Run" order="9" weight="0.95189005" />
       <window_info anchor="bottom" id="CheckStyle" order="4" weight="0.32971016" />
-      <window_info anchor="bottom" id="Terminal" order="22" weight="0.5289855" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4954628" visible="true" weight="0.340458" />
-      <window_info anchor="bottom" id="Find" order="8" weight="0.32849365" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="22" visible="true" weight="0.6576087" />
+      <window_info anchor="bottom" id="MyBatis Sql Log" order="5" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4954628" visible="true" weight="0.3557252" />
       <window_info anchor="bottom" id="Hybris Console [Experimental]" order="6" weight="0.78039926" />
       <window_info anchor="right" id="Theme Preview" order="9" />
       <window_info id="Favorites" order="5" sideWeight="0.50256413" side_tool="true" weight="0.25037822" />
@@ -472,15 +493,16 @@
       <window_info anchor="right" x="0" y="0" width="295" height="544" id="Documentation" order="0" side_tool="true" weight="0.32977098" />
       <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
       <window_info anchor="right" id="Bean Validation" order="10" />
+      <window_info anchor="bottom" id="Java Enterprise" order="17" weight="0.3298969" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
-      <window_info anchor="bottom" id="Problems" order="21" weight="0.58934706" />
       <window_info anchor="bottom" id="TypeScript" order="0" />
       <window_info anchor="bottom" id="Messages" order="16" weight="0.3298969" />
       <window_info anchor="bottom" id="Spring" order="14" weight="0.41065294" />
+      <window_info anchor="bottom" id="Find" order="8" weight="0.32849365" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
       <window_info id="Web" order="7" sideWeight="0.50256413" side_tool="true" weight="0.25037822" />
       <window_info anchor="bottom" id="Message" order="7" />
-      <window_info anchor="bottom" id="Java Enterprise" order="17" weight="0.3298969" />
+      <window_info anchor="bottom" id="Problems" order="21" weight="0.58934706" />
     </layout>
     <layout-to-restore>
       <window_info anchor="bottom" id="FindBugs-IDEA" order="1" weight="0.32876712" />
@@ -495,7 +517,7 @@
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Event Log" order="15" side_tool="true" weight="0.32427537" />
       <window_info id="UI Designer" order="4" />
-      <window_info anchor="bottom" id="Hybris Console [Experimental]" order="6" weight="0.78039926" />
+      <window_info id="Web" order="7" sideWeight="0.50256413" side_tool="true" weight="0.25037822" />
       <window_info id="Favorites" order="5" sideWeight="0.50256413" side_tool="true" weight="0.25037822" />
       <window_info active="true" anchor="bottom" id="Terminal" order="22" visible="true" weight="0.5289855" />
       <window_info id="Capture Tool" order="6" />
@@ -506,14 +528,14 @@
       <window_info anchor="bottom" id="Statistic" order="2" weight="0.32789856" />
       <window_info anchor="right" x="0" y="0" width="295" height="544" id="Documentation" order="0" side_tool="true" weight="0.32977098" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4954628" visible="true" weight="0.340458" />
       <window_info anchor="bottom" id="Problems" order="21" weight="0.58934706" />
-      <window_info id="Web" order="7" sideWeight="0.50256413" side_tool="true" weight="0.25037822" />
       <window_info anchor="bottom" id="Java Enterprise" order="17" weight="0.3298969" />
       <window_info anchor="bottom" id="Database Changes" order="18" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="20" show_stripe_button="false" />
       <window_info anchor="right" id="Maven Projects" order="6" />
       <window_info anchor="bottom" id="Find" order="8" weight="0.32849365" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4954628" visible="true" weight="0.340458" />
+      <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
       <window_info anchor="bottom" id="Messages" order="16" weight="0.3298969" />
       <window_info anchor="right" id="Database" order="7" weight="0.32980332" />
       <window_info anchor="bottom" id="Message" order="7" />
@@ -521,7 +543,7 @@
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Theme Preview" order="9" />
       <window_info id="Structure" order="1" sideWeight="0.5045372" side_tool="true" weight="0.27480915" />
-      <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
+      <window_info anchor="bottom" id="Hybris Console [Experimental]" order="6" weight="0.78039926" />
       <window_info anchor="bottom" id="Tail" order="3" />
       <window_info anchor="right" id="Bean Validation" order="10" />
       <window_info anchor="bottom" id="Debug" order="10" weight="0.4" />
@@ -539,27 +561,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/common.rnc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="472">
-          <caret line="162" column="18" selection-start-line="162" selection-start-column="18" selection-end-line="162" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vueDemo/.postcssrc.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vueDemo/build/webpack.base.conf.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="33" column="7" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vueDemo/node_modules/precss/index.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -725,9 +726,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="23" column="38" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -749,11 +747,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="245">
           <caret line="821" selection-start-line="821" selection-end-line="821" />
-          <folding>
-            <element signature="e#168#1429#0" />
-            <element signature="n#MenuItem#0;n#Submenu#0;n#template#0;n#Menu#0;n#Sider#0;n#Layout#0;n#div#0;n#section#0;n#template#0;n#!!top" />
-            <element signature="n#Button#0;n#Dropdown#0;n#template#0;n#div#0;n#div#1;n#Sider#0;n#Layout#0;n#div#0;n#section#0;n#template#0;n#!!top" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -827,9 +820,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="290">
           <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="e#230#255#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -840,33 +830,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vueDemo/config/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="23" column="45" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
-          <folding>
-            <marker date="1563257366588" expanded="true" signature="279:470" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vueDemo/src/components/managementTest/TestTwo.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="62">
           <caret line="701" selection-start-line="701" selection-end-line="702" />
-          <folding>
-            <element signature="n#style#0;n#Input#0;n#FormItem#0;n#Row#15;n#Form#0;n#div#0;n#MasterPage#0;n#section#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#Input#0;n#FormItem#0;n#Row#16;n#Form#0;n#div#0;n#MasterPage#0;n#section#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#Input#0;n#FormItem#0;n#Row#17;n#Form#0;n#div#0;n#MasterPage#0;n#section#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#Input#0;n#FormItem#0;n#Row#18;n#Form#0;n#div#0;n#MasterPage#0;n#section#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#Input#0;n#FormItem#0;n#Row#19;n#Form#0;n#div#0;n#MasterPage#0;n#section#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="e#16722#16766#0" expanded="true" />
-            <element signature="e#22932#23075#0" />
-            <element signature="e#23097#24209#0" />
-            <element signature="e#24226#24458#0" />
-            <element signature="e#24483#24679#0" />
-            <element signature="e#24700#24912#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -894,10 +861,37 @@
     <entry file="file://$PROJECT_DIR$/vueDemo/build/check-versions.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/vueDemo/dist/static/css/app.68ebebbe1a0db30d0d92ef820627bf4b.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#255293#255432#2" expanded="true" />
+            <element signature="e#259282#259421#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueDemo/dist/static/js/0.d35c193a7598dab01f47.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="35" column="50" lean-forward="true" selection-start-line="35" selection-start-column="50" selection-end-line="35" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/vueDemo/build/vue-loader.conf.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="6" column="36" lean-forward="true" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+        <state relative-caret-position="546">
+          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueDemo/dist/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueDemo/config/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>

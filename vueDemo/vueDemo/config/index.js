@@ -10,23 +10,15 @@ module.exports = {
     // Paths
     assetsSubDirectory: 'static',
     assetsPublicPath: '/',
-    //路由接口代理 解决跨域问题
+    //路由接口代理 解决跨域问题assetsPublicPath
     proxyTable: {
-      // '/rest': {
-      //   target: 'http://localhost:8082',//设置调用的接口域名和端口号
-      //   changeOrigin: true,
-      //   pathRewrite: {
-      //     '^/rest': '/rest'
-      //   }
-      // },
-
-      '/ctx': {
-        target: 'http://192.168.2.144:7201',//设置你调用的接口域名和端口号 别忘了加http
-        changeOrigin: true,//如果需要跨域
-        pathRewrite:{
-          '^ /ctx': ''
+      '/rest': {
+        target: 'http://39.97.246.223:8082',//设置调用的接口域名和端口号
+        changeOrigin: true,
+        pathRewrite: {
+          '^/rest': '/rest'
         }
-      }
+      },
     },
 
     // Various Dev Server settings
@@ -60,7 +52,7 @@ module.exports = {
     // Paths
     assetsRoot: path.resolve(__dirname, '../dist'),
     assetsSubDirectory: 'static',
-    assetsPublicPath: '/',
+    assetsPublicPath: './',
 
     /**
      * Source Maps
